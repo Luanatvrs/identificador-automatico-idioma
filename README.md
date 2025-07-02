@@ -59,5 +59,4 @@ python main.py
 
 ## Autora
 
-**Luana**  
 Luana – Desenvolvedora em IA aplicada e otimização de modelos.
