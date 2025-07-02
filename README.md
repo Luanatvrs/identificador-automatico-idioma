@@ -33,7 +33,7 @@ Frases de exemplo em três idiomas:
 
 ```bash
 pip install pandas numpy scikit-learn matplotlib
-
+```
 2. Execute:
 
 ```bash
